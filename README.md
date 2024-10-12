@@ -6,7 +6,7 @@
 Este conjunto de datos presenta una recopilación de diversas canciones, que proporciona información detallada sobre los atributos, la popularidad y la presencia de cada pista en varias plataformas musicales, lo que ofrece un recurso valioso para analistas musicales, entusiastas y profesionales de la industria. El conjunto de datos incluye información como el nombre de la pista, el artista, la fecha de lanzamiento, el ISRC, las estadísticas de transmisión y la presencia en plataformas entre otros datos. 
 
 #### Características de los datos:
-![alt text](Imagen/image.png)
+![alt text](Imagenes/Descripcion.png)
 
 #### Contexto:
 La Empresa “Palmitas” se dedica hacer anuncios publicitarios, pero en esta ocasión se le ha pedido que realice una campaña publicitaria, ha estado trabajando en recopilar datos sobre la industria musical con la finalidad de identificar los gustos (tendencias), comparación de plataformas entre otros datos que le ayuden a entender mejor para lograr una campaña publicitaria digital optima. 
